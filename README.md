@@ -8,7 +8,7 @@ Implementation of a type of Yahtzee game, as a React app
 * HTML
 
 # Status
-Project is: _finished
+Project is: _finished_
 
 # Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
